@@ -30,19 +30,6 @@ The best way to follow along is to read this documentation from your browser whi
 
 Within the documentation, snippets of the files will be displayed with a description of what is going on. Notice that the same code can be found within the repo.
 
-To clone this repo use the following command:
-
-```bash
-git clone https://github.com/https-deeplearning-ai/machine-learning-engineering-for-production-public.git
-```
-
-or for cloning via SSH use:
-
-```bash
-git clone git@github.com:https-deeplearning-ai/machine-learning-engineering-for-production-public.git
-```
-
---------
 
 Let's get started by jumping to the section [Part 1 - One prediction per request](./no-batch/README.md)!
 
