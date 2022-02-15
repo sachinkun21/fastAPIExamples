@@ -1,4 +1,4 @@
-# Week 2 Ungraded Lab: Deploy a ML model with fastAPI and Docker
+# Deploy a ML model with fastAPI and Docker
 
 Welcome! During this ungraded lab you will deploy a webserver that hosts a predictive model trained on the [wine dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_wine.html#sklearn.datasets.load_wine) using [FastApi](https://fastapi.tiangolo.com/) and [Docker](https://www.docker.com/).
 
